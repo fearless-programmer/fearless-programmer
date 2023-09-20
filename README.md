@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript with an aim of mastering Node JS. Though learning React won't be a bad thing too.**
 
-- 💬 Ask me about **that is about programming. I love the such conversations**
+- 💬 Ask me about **anything that is about Programming. Even memes are welcomed. I love the such conversations**
 
 - 📫 How to reach me: **trevorssemwanga@gmail.com**
 

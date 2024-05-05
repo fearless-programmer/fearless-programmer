@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **We use Dark Themes because Light Themes attract Bugs...**
 
+- 📖 Read my article on Medium about Good Programming Practices to follow when working with teams.
+https://medium.com/@trevormcdee/programming-style-culture-2b4f59bf16e3
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/trevormcdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trevormcdee" height="30" width="40" /></a>

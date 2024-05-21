@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **We use Dark Themes because Light Themes attract Bugs...**
 
-- 📖 I write arctiles about Programming Topics. Read them on <a href="[https://medium.com/@trevormcdee/programming-style-culture-2b4f59bf16e3](https://medium.com/@trevormcdee)" target="_blank">Medium.</a>
+- 📖 I write arctiles about Programming Topics. Read them on <a href="https://medium.com/@trevormcdee" target="_blank">Medium.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

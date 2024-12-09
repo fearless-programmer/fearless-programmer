@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Trevor McDaniel</h1>
-<h3 align="center">I am a Back-end Developer mainly using Python...</h3>
+<h1 align="center">Hi 👋, My name is Trevor</h1>
+<h3 align="center">I am a Software Engineer proficient in Python, PHP, and Javascript programming languages...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fearless-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="fearless-programmer" /> </p>
 
-- 🔭 I’m currently working on **creating Web Applications in Django and any other projects that might use Django as a Backend Framework**
+- 🔭 I’m currently working on **creating Web Applications in Django and Laravel Frameworks. I use Vue.JS for Front End.**
 
-- 🌱 I’m currently learning **JavaScript with an aim of mastering Node JS. Though learning React won't be a bad thing too.**
+- 🌱 I’m on a learning journey of **DevOps also looking at incorporating Security in these pipelines.**
 
-- 💬 Ask me about **anything that is about programming. Even memes are welcomed. I love the such conversations**
+- 💬 Ask me about **anything that is about programming. Even memes are welcomed. I love such conversations**
 
 - 📫 How to reach me: **trevorssemwanga@gmail.com**
 
 - ⚡ Fun fact **We use Dark Themes because Light Themes attract Bugs...**
 
-- 📖 I write arctiles about Programming Topics. Read them on <a href="https://medium.com/@trevormcdee" target="_blank">Medium.</a>
+- 📖 I write articles about Programming Topics. Read them on <a href="https://medium.com/@trevormcdee" target="_blank">Medium.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

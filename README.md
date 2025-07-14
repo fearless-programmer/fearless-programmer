@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | DevOps Engineer | Tech Community Contributor</h3>
 
 <p align="center">
-  <em>I build reliable backends, craft robust APIs, and design scalable microservices that power high-performance applications. I also create elegant, user-friendly interfaces that enhance the overall user experience. I’m passionate about Microservives, DevOps Culture, Application Security, and Continuous Learning.</em>
+  <em>I build reliable backends, craft robust APIs, and design scalable microservices that power high-performance applications. I also create elegant, user-friendly interfaces that enhance the overall user experience. I’m passionate about Microservices, DevOps Culture, Application Security, and Continuous Learning.</em>
 </p>
 
 <p align="center">

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
-<h3 align="center">Software Engineer | Backend Specialist | Tech Community Contributor</h3>
+<h3 align="center">Software Engineer | DevOps Engineer | Tech Community Contributor</h3>
 
 <p align="center">
-  <em>I build reliable backends, craft robust APIs, and design scalable microservices that power high-performance applications. Passionate about DevOps culture, application security, and continuous learning.</em>
+  <em>I build reliable backends, craft robust APIs, and design scalable microservices that power high-performance applications. I also create elegant, user-friendly interfaces that enhance the overall user experience. I’m passionate about DevOps Culture, Application Security, and Continuous Learning.</em>
 </p>
 
 <p align="center">
@@ -26,15 +26,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
 

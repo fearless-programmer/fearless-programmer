@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, My name is Trevor</h1>
-<h3 align="center">I am a Software Engineer proficient in Python, PHP, and JavaScript programming languages...</h3>
+<h3 align="center">I am a Software Engineer and I design robust server-side architectures, optimizing performance, and creating seamless integrations that power dynamic, high-quality applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fearless-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="fearless-programmer" /> </p>
 
-- 🔭 I’m currently working on **creating Web Applications in Django and Laravel Frameworks. I use Vue.js for Front-end.**
+- 🔭 I’m currently working on **developing software using a Microservices Architecture, thereby adopting more of a DevOps Culture**
 
-- 🌱 I’m on a learning journey of **DevOps, also looking at incorporating Security in these pipelines.**
+- 🌱 I’m on a learning journey of **understanding Computer Security so that I develop Secure Applications**
 
-- 💬 Ask me about **anything that is about programming. Even memes are welcome. I love such conversations**
+- 💬 Ask me about **anything that is about Technology & the Future. Even memes are welcome. I love such conversations**
 
 - 📫 How to reach me: **trevorssemwanga@gmail.com**
 

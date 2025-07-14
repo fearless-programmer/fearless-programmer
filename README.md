@@ -1,4 +1,4 @@
-<h1 align="center">Howdy, I'm Trevor</h1>
+<h1 align="center">Howdy 👋, I'm Trevor</h1>
 <h3 align="center">Software Engineer | DevOps Engineer | Tech Community Contributor</h3>
 
 <p align="center">

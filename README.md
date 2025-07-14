@@ -54,7 +54,6 @@
 - 📧 **Email**: trevorssemwanga@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/trevor-mcdaniel)  
 - 🐦 [Twitter](https://twitter.com/trevormcdee)  
-- 📸 [Instagram](https://instagram.com/trevormcdaniel0)
 
 ---
 

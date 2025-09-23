@@ -47,11 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fearless-programmer&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fearless-programmer&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fearless-programmer&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fearless-programmer&theme=tokyonight&margin-w=10&margin-h=10&column=6" alt="GitHub trophies"/>
 </p>
 
 ---

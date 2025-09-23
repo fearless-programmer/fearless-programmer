@@ -1,11 +1,10 @@
 <h1 align="center">Howdy 👋, I'm Trevor</h1>
-<h3 align="center">Software Engineer | DevOps Enthusiast | Tech Community Contributor</h3>
+<h3 align="center">Full-Stack Software Engineer | DevOps Enthusiast | Tech Community Contributor</h3>
 
 <p align="center">
   <em>
-    I craft reliable backends, build robust APIs, and design scalable microservices for high-performance applications.  
-    On the frontend, I create clean and intuitive user experiences.  
-    Passionate about <b>Microservices</b>, <b>DevOps Culture</b>, <b>Application Security</b>, and <b>Continuous Learning</b>.  
+    I design and build complete software solutions — from intuitive <b>frontends</b> to reliable <b>backends</b> and scalable <b>mobile applications</b>.  
+    I’m passionate about creating high-performance systems, automating workflows with <b>DevOps</b>, and writing clean, maintainable code that solves real problems.  
   </em>
 </p>
 
@@ -17,9 +16,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building: **Microservices & DevOps automation pipelines**  
-- 🌱 Learning: **Computer Security** → designing safer systems  
-- 🧠 Exploring: **Distributed Systems | Cloud Infrastructure | Clean Code**  
+- 💻 I build: **Front-end UIs | Back-end APIs | Mobile Applications**  
+- 🔭 Currently working on: **Microservices & DevOps automation pipelines**  
+- 🌱 Learning: **Computer Security** → building safer systems end-to-end  
+- 🧠 Exploring: **Distributed Systems | Cloud Infrastructure | Software Architecture**  
 - ✍🏽 Writing: [My Articles on Medium](https://medium.com/@trevormcdee)  
 - 🎯 Fun fact: *We use Dark Mode because light attracts bugs 🐛*  
 
@@ -28,10 +28,12 @@
 ## 🧰 Tech Toolbox
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="40" alt="Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>

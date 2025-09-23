@@ -4,7 +4,7 @@
 <p align="center">
   <em>
     I design and build complete software solutions — from intuitive <b>frontends</b> to reliable <b>backends</b> and scalable <b>mobile applications</b>.  
-    I’m passionate about creating high-performance systems, automating workflows with <b>DevOps</b>, and writing clean, maintainable code that solves real problems.  
+    I’m passionate about creating high-performance systems, automating workflows with <b>DevOps</b>, and writing clean, secure, and maintainable code that solves real problems.  
   </em>
 </p>
 
@@ -28,7 +28,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="40" alt="Code"/>
+  <img src="https://www.svgrepo.com/show/459012/code.svg" width="40" alt="Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>

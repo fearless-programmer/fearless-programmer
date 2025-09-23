@@ -28,7 +28,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="left">
-  <img src="https://www.svgrepo.com/show/459012/code.svg" width="40" alt="Code"/>
+  <svg width="256px" height="256px" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#2d96b9"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M7.5 12.5L7.07574 12.0757L6.65147 12.5L7.07574 12.9243L7.5 12.5ZM17.5 12.5L17.9243 12.9243L18.3485 12.5L17.9243 12.0757L17.5 12.5ZM11.4243 15.5757L7.92426 12.0757L7.07574 12.9243L10.5757 16.4243L11.4243 15.5757ZM7.92426 12.9243L11.4243 9.42426L10.5757 8.57574L7.07574 12.0757L7.92426 12.9243ZM13.5757 9.42426L17.0757 12.9243L17.9243 12.0757L14.4243 8.57574L13.5757 9.42426ZM17.0757 12.0757L13.5757 15.5757L14.4243 16.4243L17.9243 12.9243L17.0757 12.0757Z" fill="#121923"></path> </g></svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>

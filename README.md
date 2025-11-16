@@ -1,10 +1,12 @@
-# Howdy, I'm Trevor
+<h1 align="center">Howdy 👋, I'm Trevor</h1>
+<h3 align="center">Full-Stack Software Engineer | DevOps Enthusiast | Tech Community Contributor</h3>
 
-## Full-Stack Engineer | DevOps Specialist
-
-<h3 align="center">Building Scalable Solutions from Frontend to Infrastructure</h3>
-
-<p align="center"><em>I architect and deliver <strong>end-to-end software solutions</strong> with expertise in <strong>modern web frameworks</strong>, <strong>cloud-native applications</strong>, and <strong>cross-platform mobile development</strong>. Passionate about <strong>system design</strong>, <strong>DevOps automation</strong>, and writing <strong>clean, maintainable code</strong> that drives business value.</em></p>
+<p align="center">
+  <em>
+    I design and build complete software solutions — from beautiful <b>frontend UIs</b> to optimized <b>backends APIs</b> and cross-platform <b>mobile applications</b>.  
+    I’m passionate about creating high-performance systems, automating workflows with <b>DevOps</b>, and writing clean, secure, and maintainable code that solves real problems.  
+  </em>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fearless-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -12,74 +14,57 @@
 
 ---
 
-## 🚀 Technical Expertise
+## 🚀 About Me
 
-### **Full-Stack Development**
-
-JavaScript • TypeScript • Node.js • Python • PHP • Flutter
-
-### **Cloud & DevOps**
-
-Docker • CI/CD • Infrastructure as Code
-
-### **Architecture**
-
-Microservices • REST APIs • System Design • Scalable Applications
+- 💻 I build: **Front-end UIs | Back-end APIs | Cross-Platform Mobile Applications**  
+- 🔭 Currently working on: **Microservices & DevOps automation pipelines**  
+- 🌱 Learning: **Computer Security** → building safer systems end-to-end  
+- 🧠 Exploring: **Distributed Systems | Cloud Infrastructure | Software Architecture**  
+- ✍🏽 Writing: [My Articles on Medium](https://medium.com/@trevormcdee)  
+- 🎯 Fun fact: *We use Dark Theme because light attracts bugs 🐛*  
 
 ---
 
-## 🎯 Current Focus
-
-* **Building:** Enterprise-scale microservices with container orchestration
-* **Learning:** Advanced security practices for secure software development
-* **Exploring:** Distributed systems and cloud infrastructure optimization
-* **Writing:** Technical articles on Medium
-
----
-
-## 🧰 Technology Stack
-
-### **Frontend & Mobile**
+## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-</p>
-
-### **Backend & Databases**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-</p>
-
-### **DevOps & Cloud**
-
-<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fearless-programmer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fearless-programmer&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fearless-programmer&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fearless-programmer&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fearless-programmer&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fearless-programmer&theme=tokyonight&margin-w=10&margin-h=10&column=6" alt="GitHub trophies"/>
 </p>
 
 ---
 
-<p align="center"><em>“First, solve the problem. Then, write the code.” – John Johnson</em></p>
-<p align="center"><em>Open to new opportunities and technical collaborations!</em></p>
+## 📫 Let’s Connect
+
+- 📧 **Email**: trevorssemwanga@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/trevor-mcdaniel)  
+- 🐦 [Twitter / X](https://twitter.com/trevormcdee)  
+
+---
+
+<p align="center">
+  <em>“The only way to do Great Work is to love what you do.” – Steve Jobs</em>
+</p>
